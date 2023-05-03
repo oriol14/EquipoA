@@ -8,7 +8,7 @@ public class Hola {
 		
 		System.out.println("equipo A manda");
 		
-		System.out.println("venga yoel");
+		System.out.println(" yoel es el puto amo");
 
 		System.out.println("venga co");
 		
